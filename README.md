@@ -11,8 +11,8 @@ This repository serves as a structured roadmap for my deep learning, MLOps, and 
 ### MLOps
 - **[MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)**: A practical course focused on real-world MLOps practices.
 - **[Serverless MLOps](https://www.serverless-ml.org/modules)**: Serverless MLOps course.
-    - ## Serverless MLOps Project Showcase
-      Some of the Serverless ML Systems developed by students in the Scalable ML and Deep Learning master's level course (ID2223) at KTH University [here](https://id2223kth.github.io/assignments/2024/ID2223Projects2024.html).
+    - #### Serverless MLOps Project Showcase
+      [Some of the Serverless ML Systems developed by students in the Scalable ML and Deep Learning master's level course (ID2223) at KTH University](https://id2223kth.github.io/assignments/2024/ID2223Projects2024.html).
 - **[MLOps Foundations by iNeuron Intelligence](https://www.youtube.com/playlist?list=PLmQAMKHKeLZ9iaLWBULDE_hiPtOiHiDz0)**: MLOps Foundations playlist (around 32 hours).
 - **[ML Observability Course by Evidently AI](https://learn.evidentlyai.com/)**: Free open-source ML observability course for data scientists and ML engineers by Evidently AI.
 - **[The Full Stack 7-Steps MLOps Framework by Paul Iusztin](https://pauliusztin.medium.com)**: Learn MLE & MLOps for free by building, deploying, and monitoring an end-to-end ML batch system. This intermediate to advanced course targets MLEs and SWEs transitioning to MLEs. The course includes source code, reading, and video materials on Medium.
