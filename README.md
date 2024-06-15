@@ -33,3 +33,5 @@ This repository serves as a structured roadmap for my deep learning, MLOps, and 
 - **[LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)**: A 10-week online course focused on building Q&A systems using LLMs and RAG. Covers topics like LLM orchestration, monitoring, best practices, and hands-on projects.
 
 
+## Books
+- **[Dead Simple Python by Jason C. McDonald](https://learning.oreilly.com/library/view/dead-simple-python/9781098156671/f07.xhtml)**: A practical guide to Python programming focusing on simplicity and clarity.
