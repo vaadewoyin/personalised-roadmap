@@ -35,3 +35,8 @@ This repository serves as a structured roadmap for my deep learning, MLOps, and 
 
 ## Books
 - **[Dead Simple Python by Jason C. McDonald](https://learning.oreilly.com/library/view/dead-simple-python/9781098156671/f07.xhtml)**: A practical guide to Python programming focusing on simplicity and clarity.
+
+## Miscellaneous
+- **[Phil Wang - lucidrains](https://github.com/lucidrains?tab=repositories)**: For implementation of research papers
+- **[Umar Jamil](https://www.youtube.com/@umarjamilai/videos)**: For Good & indepth youtube tutorials
+- 
