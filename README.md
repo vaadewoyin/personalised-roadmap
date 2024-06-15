@@ -39,4 +39,5 @@ This repository serves as a structured roadmap for my deep learning, MLOps, and 
 ## Miscellaneous
 - **[Phil Wang - lucidrains](https://github.com/lucidrains?tab=repositories)**: For implementation of research papers
 - **[Umar Jamil](https://www.youtube.com/@umarjamilai/videos)**: For Good & indepth youtube tutorials
+- **[System design](https://github.com/systemdesign42/system-design?tab=readme-ov-file#a-companies)**: 
 - 
